@@ -1,0 +1,25 @@
+{
+  "slug": "a10u8r_plugin",
+  "name": "A10U8R",
+  "version": "2.0.0",
+  "license": "GPL-2.0-or-later",
+  "brand": "ewpratten",
+  "author": "Evan Pratten",
+  "authorEmail": "contact@ewpratten.com",
+  "authorUrl": "https://ewpratten.com",
+  "pluginUrl": "https://ewpratten.com/products/vcvrack/a10u8r",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/ewpratten/A10U8R",
+  "donateUrl": "https://ewpratten.com/donate",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "a10u8r_module",
+      "name": "a10u8r_module",
+      "description": "A simple, hacky, attenuator",
+      "tags": [
+        "Attenuator"
+      ]
+    }
+  ]
+}
