@@ -15,7 +15,7 @@
   "modules": [
     {
       "slug": "a10u8r_module",
-      "name": "a10u8r_module",
+      "name": "A10U8R",
       "description": "A simple, hacky, attenuator",
       "tags": [
         "Attenuator"
